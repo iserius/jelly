@@ -1,0 +1,3 @@
+# jellyjelly
+themes
+for jellyfin
